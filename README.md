@@ -4,9 +4,9 @@
 
 Scrum on ketterä projektinhallintamenetelmä, joka keskittyy ohjelmistokehitykseen ja tuotehallintaan. Se perustuu iteratiiviseen ja inkrementaaliseen lähestymistapaan, jossa työtä tehdään lyhyissä jaksoissa, joita kutsutaan sprinteiksi.
 
-Product Backlog (Tuotteen tehtävälista):
-    Kuvaus: Product Backlog on priorisoitu lista kaikista tehtävistä, ominaisuuksista, parannuksista ja korjauksista, jotka tarvitaan tuotteen kehittämiseen.
-    Omistaja: Product Owner (tuoteomistaja) vastaa Product Backlogin ylläpidosta ja priorisoinnista.
+Scrum-sykli toistuu, kunnes tuote on valmis tai projektin päämäärä on saavutettu. Jokaisen sprintin jälkeen tuote on entistä valmiimpi ja sisältää lisää toiminnallisuuksia. Tämän iteratiivisen lähestymistavan ansiosta tuote kehittyy jatkuvasti, ja tiimi voi mukautua uusiin vaatimuksiin ja muutoksiin nopeasti.
+
+## Sprintit
 
 Sprint Planning (Sprintin suunnittelu):
     Kuvaus: Sprint Planning on sprintin alussa pidettävä kokous, jossa koko Scrum-tiimi määrittelee, mitä töitä tullaan tekemään seuraavan sprintin aikana. Tavoitteena on valita Product Backlogista ne tehtävät, jotka ovat tärkeitä ja realistisesti saavutettavissa sprintin aikana.
@@ -17,13 +17,6 @@ Sprint:
     Sprintin säännöt:
         Sprintin kesto on vakio, eikä sitä muuteta kesken projektin.
         Sprintin aikana ei tehdä uusia lisäyksiä tai muutoksia Sprint Backlogiin ilman erityistä syytä.
-
-Daily Scrum (Päivittäinen Scrum-kokous):
-    Kuvaus: Päivittäinen lyhyt (15 minuutin) kokous, jossa Scrum-tiimi keskustelee sprintin edistymisestä. Jokainen tiimin jäsen vastaa kolmeen kysymykseen:
-        Mitä tein eilen, joka auttoi tiimiä saavuttamaan sprintin tavoitteen?
-        Mitä aion tehdä tänään edistääkseni sprintin tavoitteen saavuttamista?
-        Onko jotain esteitä, jotka hidastavat tai estävät edistymistäni?
-    Tavoite: Pitää tiimi tietoisena toistensa edistymisestä ja tunnistaa mahdolliset esteet nopeasti.
 
 Sprint Review (Sprintin katselmointi):
     Kuvaus: Sprintin lopussa pidettävä kokous, jossa tiimi esittelee valmiin työnsä (esim. toiminnallisia ominaisuuksia tai muita valmiita tehtäviä) sidosryhmille ja Product Ownerille.
@@ -36,15 +29,22 @@ Sprint Retrospective (Sprintin retrospektiivi):
 Uusi Sprint:
     Kuvaus: Sprint Retrospective -kokouksen jälkeen alkaa uusi sprintti, ja sykli alkaa alusta Sprint Planning -kokouksella.
 
-Scrum-sykli toistuu, kunnes tuote on valmis tai projektin päämäärä on saavutettu. Jokaisen sprintin jälkeen tuote on entistä valmiimpi ja sisältää lisää toiminnallisuuksia. Tämän iteratiivisen lähestymistavan ansiosta tuote kehittyy jatkuvasti, ja tiimi voi mukautua uusiin vaatimuksiin ja muutoksiin nopeasti.
-
-## Sprintit
-
 ## Työjonot
+
+Product Backlog (Tuotteen tehtävälista):
+    Kuvaus: Product Backlog on priorisoitu lista kaikista tehtävistä, ominaisuuksista, parannuksista ja korjauksista, jotka tarvitaan tuotteen kehittämiseen.
+    Omistaja: Product Owner (tuoteomistaja) vastaa Product Backlogin ylläpidosta ja priorisoinnista.
 
 ## Roolit
 
 ## Kokoukset
+
+Daily Scrum (Päivittäinen Scrum-kokous):
+    Kuvaus: Päivittäinen lyhyt (15 minuutin) kokous, jossa Scrum-tiimi keskustelee sprintin edistymisestä. Jokainen tiimin jäsen vastaa kolmeen kysymykseen:
+        Mitä tein eilen, joka auttoi tiimiä saavuttamaan sprintin tavoitteen?
+        Mitä aion tehdä tänään edistääkseni sprintin tavoitteen saavuttamista?
+        Onko jotain esteitä, jotka hidastavat tai estävät edistymistäni?
+    Tavoite: Pitää tiimi tietoisena toistensa edistymisestä ja tunnistaa mahdolliset esteet nopeasti.
 
 ## Miksi Scrum toimii?
 
@@ -57,7 +57,7 @@ Ohje laaditaan yhdessä Markdown-dokumenttina git-repositoryyn. Kuka tahansa saa
 Noudatetaan seuraavaa käytäntöä:
 
     Kaikki muutokset kehitetään omassa feature-haarassa.
-    Valmiit muutokset viedään develop-haaraan –no-ff -laajentimella (merge -–no-ff), jolloin aina tehdään merge-commit, vaikka fast-forward olisi mahdollinen. Näin kaikki merget tulevat näkyviksi historiassa.
+    Valmiit muutokset viedään develop-haaraan –-no-ff -laajentimella (merge -–no-ff), jolloin aina tehdään merge-commit, vaikka fast-forward olisi mahdollinen. Näin kaikki merget tulevat näkyviksi historiassa.
     Master-haaraan viedään vain dokumentin valmiita versioita (julkaisu). Dokumentti kehitetään develop-haarassa valmiiksi julkaisua varten.
     Jokainen tiimin jäsen tekee muutoksia, muutoin ei saa harjoitusta. Mitä enemmän tehdään muutoksia, sitä enemmän tulee kokemusta!
 
