@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # README
+=======
+
+
+# Harjoitus
+>>>>>>> adefecba7c74eeac754363c9bd6802f37d4f7122
 
 Harjoitellaan tunnilla Git-versionhallintaa harjoituksella, johon kaikki osallistuvat.
 
@@ -25,7 +31,7 @@ Noudatetaan seuraavaa käytäntöä:
 
 Harjoitus aloitetaan lähitunnilla, jotta muutoksia tulee yhtaikaa ja saadaan aikaan konflikteja. Työ viimeistellään seuraavaan kertaan mennessä.
 
-Ohjeita
+# Ohjeita
 
     Perustakaa hankkeelle projekti-repository GitHubiin ja kutsukaa ryhmän jäsenet projektiin.
     Haaran luonti ja vaihto: git switch –c feat123
