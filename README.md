@@ -1,6 +1,10 @@
+<<<<<<< HEAD
+# README
+=======
 
 
 # Harjoitus
+>>>>>>> adefecba7c74eeac754363c9bd6802f37d4f7122
 
 ## Scrum-syklin yleiskuvaus
 
@@ -16,14 +20,17 @@
 
 Harjoitellaan tunnilla Git-versionhallintaa harjoituksella, johon kaikki osallistuvat.
 
-Tehtävänä on laatia Scrum-ohje projektille. Sen otsikoita voivat olla esim.
+## Scrum-syklin yleiskuvaus
 
-    Scrum-syklin yleiskuvaus
-    Sprintit
-    Työjonot
-    Roolit
-    Kokoukset
-    Miksi Scrum toimii?
+## Sprintit
+
+## Työjonot
+
+## Roolit
+
+## Kokoukset
+
+## Miksi Scrum toimii?
 
 Ohje laaditaan yhdessä Markdown-dokumenttina git-repositoryyn. Kuka tahansa saa muuttaa mitä tahansa!  Harjoituksen lopuksi julkaistaan ohjeen ensimmäinen versio GitHub Pages -palvelussa.
 
@@ -44,4 +51,3 @@ Harjoitus aloitetaan lähitunnilla, jotta muutoksia tulee yhtaikaa ja saadaan ai
         Tee talletus (commit) feature haaraan
         Siirry develop haaraan: git switch develop
         Yhdistä: git merge –no-ff feat123
-
