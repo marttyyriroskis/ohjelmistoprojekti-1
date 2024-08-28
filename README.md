@@ -2,6 +2,18 @@
 
 # Harjoitus
 
+## Scrum-syklin yleiskuvaus
+
+## Sprintit
+
+## Työjonot
+
+## Roolit
+
+## Kokoukset
+
+## Miksi Scrum toimii?
+
 Harjoitellaan tunnilla Git-versionhallintaa harjoituksella, johon kaikki osallistuvat.
 
 Tehtävänä on laatia Scrum-ohje projektille. Sen otsikoita voivat olla esim.
