@@ -114,4 +114,4 @@ Harjoitus aloitetaan lähitunnilla, jotta muutoksia tulee yhtaikaa ja saadaan ai
         Yhdistä: git merge -–no-ff feat123
 
 
-[^4]: Referenssinä käytetty [The 2020 Scrum Guide TM](https://scrumguides.org/scrum-guide.html). Lisäksi oma pää.
+[^1]: Referenssinä käytetty [The 2020 Scrum Guide TM](https://scrumguides.org/scrum-guide.html). Lisäksi oma pää.
