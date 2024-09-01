@@ -76,7 +76,7 @@ On huomioitavaa, että scrum-kokous ei ole ainoa hetki päivässä, jolloin kehi
 
 ## Miksi Scrum toimii?
 
-Scrum toimii, koska se luo systemaattisen prosessin, jossa yhteistyön tuotoksia tarkastellaan riittävän usein, jotta virheet ja epäjohdonmukaisuudet eivät kulkeudu liian pitkälle. Scrum antaa jokaiselle jäsenelle mahdollisuuden vaikuttaa yhtäläisesti, ja vastuun projektin laadusta ja onnistumisesta. Scrumin arvot läpinäkyvyydestä, tarkastelusta, ja muutoksiin vastaamisesta tekevät projektin kehittämisestä ketterää. Kun muutoksiin ja vastoinkäymisiin vastataan saman tien eikä viiveellä, projekti ei mene harhaan liian pitkään. Koska työskentely on läpinäkyvää ja tapaamisia on usein, jokainen tiimin jäsen oppii muiden virheistä ja onnistumisista.[^4]
+Scrum toimii, koska se luo systemaattisen prosessin, jossa yhteistyön tuotoksia tarkastellaan riittävän usein, jotta virheet ja epäjohdonmukaisuudet eivät kulkeudu liian pitkälle. Scrum antaa jokaiselle jäsenelle mahdollisuuden vaikuttaa yhtäläisesti, ja vastuun projektin laadusta ja onnistumisesta. Scrumin arvot läpinäkyvyydestä, tarkastelusta, ja muutoksiin vastaamisesta tekevät projektin kehittämisestä ketterää. Kun muutoksiin ja vastoinkäymisiin vastataan saman tien eikä viiveellä, projekti ei mene harhaan liian pitkään. Koska työskentely on läpinäkyvää ja tapaamisia on usein, jokainen tiimin jäsen oppii muiden virheistä ja onnistumisista.[^4]:
 
 Harjoitellaan tunnilla Git-versionhallintaa harjoituksella, johon kaikki osallistuvat.
 
@@ -101,4 +101,4 @@ Harjoitus aloitetaan lähitunnilla, jotta muutoksia tulee yhtaikaa ja saadaan ai
         Yhdistä: git merge -–no-ff feat123
 
 
-[^4] Referenssinä käytetty [The 2020 Scrum Guide TM](https://scrumguides.org/scrum-guide.html). Lisäksi oma pää.
+[^4]: Referenssinä käytetty [The 2020 Scrum Guide TM](https://scrumguides.org/scrum-guide.html). Lisäksi oma pää.
