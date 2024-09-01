@@ -4,21 +4,9 @@ Tämän ohjeen pohjana on käytetty Scrum Guide -ohjetta[^1].
 
 ## Scrum-syklin yleiskuvaus
 
-```
-Scrum on menetelmä monimutkaisten tuotteiden - ei siis pelkästään ohjelmistojen -
-luontiin ja ylläpitoon. Se nähdään osana ketterää kehitystyötä. Sen perusidea
-pohjautuu työntekoon lyhyissä sprinteiksi kutsutuissa jaksoissa. Joka jaksolla on
-usein yksi, selkeästi määritelty tavoite, joka tulee voida toteuttaa sprintin 4-6
-viikon aikarajan sisällä.
-```
+Scrum on menetelmä monimutkaisten tuotteiden - ei siis pelkästään ohjelmistojen - luontiin ja ylläpitoon. Se nähdään osana ketterää kehitystyötä. Sen perusidea pohjautuu työntekoon lyhyissä sprinteiksi kutsutuissa jaksoissa. Joka jaksolla on usein yksi, selkeästi määritelty tavoite, joka tulee voida toteuttaa sprintin 4-6 viikon aikarajan sisällä.
 
-```
-Sykli toistuu, kunnes projektin päämäärä on saavutettu. Jokaisen sprintin jälkeen
-tuote on entistä valmiimpi ja sisältää lisää toiminnallisuuksia. Tämän lähestymis-
-tavan ansiosta tuote kehittyy jatkuvasti, ja mahdollisiin muutoksiin voidaan reagoi-
-da nopeasti. Scrumia käytetään paitsi tuotteiden valmistukseen, myös niiden ylläpi-
-toon.
-```
+Sykli toistuu, kunnes projektin päämäärä on saavutettu. Jokaisen sprintin jälkeen tuote on entistä valmiimpi ja sisältää lisää toiminnallisuuksia. Tämän lähestymis- tavan ansiosta tuote kehittyy jatkuvasti, ja mahdollisiin muutoksiin voidaan reagoida nopeasti. Scrumia käytetään paitsi tuotteiden valmistukseen, myös niiden ylläpitoon.
 
 ## Sprintit[^1]
 
@@ -51,34 +39,24 @@ Työjono - englantilaisittain backlog - on priorisoitu lista kaikista tehtävist
 
 ### <span style="color: #f06080">Product Owner (Tuoteomistaja)</span>
 
-```
-Vastaa tuotteen kehityksen suunnasta ja Product Backlogin ylläpidosta,
-priorisoi tehtävät ja varmistaa, että tiimi työskentelee
-liiketoiminnan kannalta tärkeimpien asioiden parissa.
-```
+Vastaa tuotteen kehityksen suunnasta ja Product Backlogin ylläpidosta, priorisoi tehtävät ja varmistaa, että tiimi työskentelee liiketoiminnan kannalta tärkeimpien asioiden parissa.
 
 ### <span style="color: #f06080">Scrum Master</span>
 
-```
 On vastuussa Scrum-prosessista ja varmistaa, että tiimi noudattaa Scrum- viitekehystä. Poistaa esteitä tiimin tieltä ja valmentaa sitä mahdollisimman tehokkaaseen työskentelytapaan.
 
 Scrum Masterilla tulee olla hyvä käsitys Scrumista, sillä hänen vastuullaan on auttaa muita ymmärtämään Scumin toimintaperiaatteita.
-```
 
 ### <span style="color: #f06080">Development Team (Kehitystiimi)</span>
 
-```
 Monialainen, itseohjautuva tiimi, joka vastaa tuotteen toteutuksesta
 ja toiminnallisuuksien kehittämisestä sprinttien aikana.
 
 Kehitystiimin vastuulla on luoda suunnitelma Sprintille, eli Sprint Backlog. Kehitystiimin jäsenet pitävät toinen toisensa vastuussa työskentelyn ja lopputuloksen laadusta.
-```
 
 ### <span style="color: #f06080">Sidosryhmät</span>
 
-```
 Antavat palautetta ja asettavat vaatimuksia tuotteen kehitykselle.
-```
 
 ## Kokoukset
 
