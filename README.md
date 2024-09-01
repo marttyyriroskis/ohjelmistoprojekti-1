@@ -8,6 +8,7 @@ Sykli toistuu, kunnes projektin päämäärä on saavutettu. Jokaisen sprintin j
 
 ## Sprintit[^1]
 
+<<<<<<< HEAD
 ### Sprint Planning (Sprintin suunnittelu):
 
 Sprint Planning on sprintin alussa pidettävä kokous, jossa koko Scrum-tiimi määrittelee, mitä töitä tullaan tekemään seuraavan sprintin aikana. Tavoitteena on valita Product Backlogista ne tehtävät, jotka ovat tärkeitä ja realistisesti saavutettavissa sprintin aikana.
@@ -37,6 +38,28 @@ Sprint Review -kokouksen jälkeen pidettävä kokous, jossa Scrum-tiimi arvioi s
 Sprint Retrospective -kokouksen jälkeen alkaa uusi sprintti, ja sykli alkaa alusta Sprint Planning -kokouksella.
 
 [^1]: [Lähde](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf "Scrumguides")
+=======
+Sprint Planning (Sprintin suunnittelu)
+    Kuvaus: Sprint Planning on sprintin alussa pidettävä kokous, jossa koko Scrum-tiimi määrittelee, mitä töitä tullaan tekemään seuraavan sprintin aikana. Tavoitteena on valita Product Backlogista ne tehtävät, jotka ovat tärkeitä ja realistisesti saavutettavissa sprintin aikana.
+    Tulokset: Sprintin tavoite (Sprint Goal) ja Sprint Backlog, joka on lista tehtävistä, joita tiimi aikoo toteuttaa sprintin aikana.
+
+Sprint
+    Kuvaus: Sprint on ennalta määritelty ajanjakso (yleensä 1–4 viikkoa), jonka aikana tiimi työskentelee Sprint Backlogin tehtävien parissa. Sprintin aikana tiimi keskittyy vain valittuihin tehtäviin ilman ulkopuolisia häiriöitä.
+    Sprintin säännöt:
+        Sprintin kesto on vakio, eikä sitä muuteta kesken projektin.
+        Sprintin aikana ei tehdä uusia lisäyksiä tai muutoksia Sprint Backlogiin ilman erityistä syytä.
+
+Sprint Review (Sprintin katselmointi)
+    Kuvaus: Sprintin lopussa pidettävä kokous, jossa tiimi esittelee valmiin työnsä (esim. toiminnallisia ominaisuuksia tai muita valmiita tehtäviä) sidosryhmille ja Product Ownerille.
+    Tavoite: Saada palautetta tuotteen nykytilasta ja mahdollisista parannuksista tai muutoksista. Päivittää Product Backlog tarvittaessa perustuen saatuun palautteeseen.
+
+Sprint Retrospective (Sprintin retrospektiivi)
+    Kuvaus: Sprint Review -kokouksen jälkeen pidettävä kokous, jossa Scrum-tiimi arvioi sprintin suoritusta ja tunnistaa parannuskohteita.
+    Tavoite: Parantaa tiimin työskentelytapoja ja prosesseja tulevia sprinttejä varten, esimerkiksi lisäämällä tehokkuutta, vähentämällä jännitteitä tai optimoimalla työnkulkua.
+
+Uusi Sprint
+    Kuvaus: Sprint Retrospective -kokouksen jälkeen alkaa uusi sprintti, ja sykli alkaa alusta Sprint Planning -kokouksella.
+>>>>>>> jultsi
 
 ## Työjonot
 
@@ -86,6 +109,8 @@ On huomioitavaa, että scrum-kokous ei ole ainoa hetki päivässä, jolloin kehi
 ## Miksi Scrum toimii?
 
 Scrum toimii, koska se luo systemaattisen prosessin, jossa yhteistyön tuotoksia tarkastellaan riittävän usein, jotta virheet ja epäjohdonmukaisuudet eivät kulkeudu liian pitkälle. Scrum antaa jokaiselle jäsenelle mahdollisuuden vaikuttaa yhtäläisesti, ja vastuun projektin laadusta ja onnistumisesta. Scrumin arvot läpinäkyvyydestä, tarkastelusta, ja muutoksiin vastaamisesta tekevät projektin kehittämisestä ketterää. Kun muutoksiin ja vastoinkäymisiin vastataan saman tien eikä viiveellä, projekti ei mene harhaan liian pitkään. Koska työskentely on läpinäkyvää ja tapaamisia on usein, jokainen tiimin jäsen oppii muiden virheistä ja onnistumisista.[^4]
+
+# Ohjeita
 
 # Ohjeita
 
