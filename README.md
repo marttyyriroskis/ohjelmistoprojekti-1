@@ -1,6 +1,6 @@
 # README
 
-Tämän ohjeen pohjana on käytetty Scrum Guide -ohjetta[^1]
+Tämän ohjeen pohjana on käytetty Scrum Guide -ohjetta[^1].
 
 ## Scrum-syklin yleiskuvaus
 
@@ -104,4 +104,4 @@ Harjoitus aloitetaan lähitunnilla, jotta muutoksia tulee yhtaikaa ja saadaan ai
 
 # Lähteet
 
-[^1]https://scrumguides.org/scrum-guide.html#daily-scrum
+[^1] https://scrumguides.org/scrum-guide.html#daily-scrum
