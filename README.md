@@ -1,5 +1,7 @@
 # README
 
+Tämän ohjeen pohjana on käytetty Scrum Guide -ohjetta[^1].
+
 ## Scrum-syklin yleiskuvaus
 
 Scrum on menetelmä monimutkaisten tuotteiden - ei siis pelkästään ohjelmistojen - luontiin ja ylläpitoon. Se nähdään osana ketterää kehitystyötä. Sen perusidea pohjautuu työntekoon lyhyissä sprinteiksi kutsutuissa jaksoissa. Joka jaksolla on usein yksi, selkeästi määritelty tavoite, joka tulee voida toteuttaa sprintin 4-6 viikon aikarajan sisällä.
@@ -134,8 +136,6 @@ Harjoitus aloitetaan lähitunnilla, jotta muutoksia tulee yhtaikaa ja saadaan ai
         Siirry develop haaraan: git switch develop
         Yhdistä: git merge -–no-ff feat123
 
-<hr />
+# Lähteet
 
-Tekstissä käytetty lähteenä virallista [Scrum Guidea](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100)
-
-[^4] Referenssinä käytetty [The 2020 Scrum Guide TM](https://scrumguides.org/scrum-guide.html)
+[^1] https://scrumguides.org/scrum-guide.html#daily-scrum
