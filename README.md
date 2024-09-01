@@ -6,28 +6,37 @@ Scrum on menetelmä monimutkaisten tuotteiden - ei siis pelkästään ohjelmisto
 
 Sykli toistuu, kunnes projektin päämäärä on saavutettu. Jokaisen sprintin jälkeen tuote on entistä valmiimpi ja sisältää lisää toiminnallisuuksia. Tämän lähestymistavan ansiosta tuote kehittyy jatkuvasti, ja mahdollisiin muutoksiin voidaan reagoida nopeasti. Scrumia käytetään paitsi tuotteiden valmistukseen, myös niiden ylläpitoon.
 
-## Sprintit
+## Sprintit[^1]
 
 ### Sprint Planning (Sprintin suunnittelu):
+
 Sprint Planning on sprintin alussa pidettävä kokous, jossa koko Scrum-tiimi määrittelee, mitä töitä tullaan tekemään seuraavan sprintin aikana. Tavoitteena on valita Product Backlogista ne tehtävät, jotka ovat tärkeitä ja realistisesti saavutettavissa sprintin aikana.
 Tulokset: Sprintin tavoite (Sprint Goal) ja Sprint Backlog, joka on lista tehtävistä, joita tiimi aikoo toteuttaa sprintin aikana.
 
 ### Sprint:
+
 Sprint on ennalta määritelty ajanjakso (yleensä 1–4 viikkoa), jonka aikana tiimi työskentelee Sprint Backlogin tehtävien parissa. Sprintin aikana tiimi keskittyy vain valittuihin tehtäviin ilman ulkopuolisia häiriöitä.
 Sprintin säännöt:
 Sprintin kesto on vakio, eikä sitä muuteta kesken projektin.
 Sprintin aikana ei tehdä uusia lisäyksiä tai muutoksia Sprint Backlogiin ilman erityistä syytä.
 
 ### Sprint Review (Sprintin katselmointi):
+
 Sprintin lopussa pidettävä kokous, jossa tiimi esittelee valmiin työnsä (esim. toiminnallisia ominaisuuksia tai muita valmiita tehtäviä) sidosryhmille ja Product Ownerille.
-* Saada palautetta tuotteen nykytilasta ja mahdollisista parannuksista tai muutoksista. Päivittää Product Backlog tarvittaessa perustuen saatuun palautteeseen.
+
+- Saada palautetta tuotteen nykytilasta ja mahdollisista parannuksista tai muutoksista. Päivittää Product Backlog tarvittaessa perustuen saatuun palautteeseen.
 
 ### Sprint Retrospective (Sprintin retrospektiivi):
+
 Sprint Review -kokouksen jälkeen pidettävä kokous, jossa Scrum-tiimi arvioi sprintin suoritusta ja tunnistaa parannuskohteita.
-* Parantaa tiimin työskentelytapoja ja prosesseja tulevia sprinttejä varten, esimerkiksi lisäämällä tehokkuutta, vähentämällä jännitteitä tai optimoimalla työnkulkua.
+
+- Parantaa tiimin työskentelytapoja ja prosesseja tulevia sprinttejä varten, esimerkiksi lisäämällä tehokkuutta, vähentämällä jännitteitä tai optimoimalla työnkulkua.
 
 ### Uusi Sprint:
+
 Sprint Retrospective -kokouksen jälkeen alkaa uusi sprintti, ja sykli alkaa alusta Sprint Planning -kokouksella.
+
+[^1]: [Lähde](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf "Scrumguides")
 
 ## Työjonot
 
