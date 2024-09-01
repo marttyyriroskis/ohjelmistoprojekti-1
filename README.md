@@ -2,9 +2,9 @@
 
 ## Scrum-syklin yleiskuvaus
 
-Scrum on ketterä projektinhallintamenetelmä, joka keskittyy ohjelmistokehitykseen ja tuotehallintaan. Se perustuu iteratiiviseen ja inkrementaaliseen lähestymistapaan, jossa työtä tehdään lyhyissä jaksoissa, joita kutsutaan sprinteiksi.
+Scrum on menetelmä monimutkaisten tuotteiden - ei siis pelkästään ohjelmistojen - luontiin ja ylläpitoon. Se nähdään osana ketterää kehitystyötä. Sen perusidea pohjautuu työntekoon lyhyissä sprinteiksi kutsutuissa jaksoissa. Joka jaksolla on usein yksi, selkeästi määritelty tavoite, joka tulee voida toteuttaa sprintin 4-6 viikon aikarajan sisällä.
 
-Scrum-sykli toistuu, kunnes tuote on valmis tai projektin päämäärä on saavutettu. Jokaisen sprintin jälkeen tuote on entistä valmiimpi ja sisältää lisää toiminnallisuuksia. Tämän iteratiivisen lähestymistavan ansiosta tuote kehittyy jatkuvasti, ja tiimi voi mukautua uusiin vaatimuksiin ja muutoksiin nopeasti.
+Sykli toistuu, kunnes projektin päämäärä on saavutettu. Jokaisen sprintin jälkeen tuote on entistä valmiimpi ja sisältää lisää toiminnallisuuksia. Tämän lähestymistavan ansiosta tuote kehittyy jatkuvasti, ja mahdollisiin muutoksiin voidaan reagoida nopeasti. Scrumia käytetään paitsi tuotteiden valmistukseen, myös niiden ylläpitoon.
 
 ## Sprintit
 
@@ -31,9 +31,7 @@ Sprint Retrospective -kokouksen jälkeen alkaa uusi sprintti, ja sykli alkaa alu
 
 ## Työjonot
 
-Product Backlog (Tuotteen tehtävälista):
-Kuvaus: Product Backlog on priorisoitu lista kaikista tehtävistä, ominaisuuksista, parannuksista ja korjauksista, jotka tarvitaan tuotteen kehittämiseen.
-Omistaja: Product Owner (tuoteomistaja) vastaa Product Backlogin ylläpidosta ja priorisoinnista.
+Työjono - englantilaisittain backlog - on priorisoitu lista kaikista tehtävistä, joita tarvitaan tuotteen kehittämiseen. Tuoteomistaja vastaa työjonon ajankohtaisuudesta ja ylläpidosta.
 
 ## Roolit
 
@@ -55,16 +53,15 @@ Omistaja: Product Owner (tuoteomistaja) vastaa Product Backlogin ylläpidosta ja
 
 ## Kokoukset
 
-Daily Scrum (Päivittäinen Scrum-kokous):
-Kuvaus: Päivittäinen lyhyt (15 minuutin) kokous, jossa Scrum-tiimi keskustelee sprintin edistymisestä. Jokainen tiimin jäsen vastaa kolmeen kysymykseen:
-Mitä tein eilen, joka auttoi tiimiä saavuttamaan sprintin tavoitteen?
-Mitä aion tehdä tänään edistääkseni sprintin tavoitteen saavuttamista?
-Onko jotain esteitä, jotka hidastavat tai estävät edistymistäni?
-Tavoite: Pitää tiimi tietoisena toistensa edistymisestä ja tunnistaa mahdolliset esteet nopeasti.
+Scrum-sykliin kuuluu olennaisesta päivittäiset scrum-kokoukset (daily scrum). Päivittäiset scrum-kokoukset ovat lyhyitä 15 minuutin mittaisia kokouksia scrumiin osallistuville kehittäjille, ja kokouksen aikana tarkastellaan sprintin tavoitteen (sprint goal) saavuttamista sekä springin työjonoa (backlog). Kokous tulisi pitää päivittäin samaan aikaan.
+
+Kokouksen toteutustapa on vapaa, mutta sen tulee edistää sprintin tavoitteen toteutumista. Kokouksen jälkeen jokaisella kehittäjällä on työsuunnitelma seuraavaksi työpäiväksi. Kehittäjät ovat myös tietoisia toistensa työtilanteesta ja seuraavista askelista.
+
+On huomioitavaa, että scrum-kokous ei ole ainoa hetki päivässä, jolloin kehittäjät tapaavat toisiaan. Kommunikaation ylläpitäminen on tärkeää koko työpäivän ajan, ja muutoksia suunnitelmiin voi joutua tekemään varsinaisen scrum-kokouksen ulkopuolella.
 
 ## Miksi Scrum toimii?
 
-Scrum toimii, koska se luo systemaattisen prosessin, jossa yhteistyön tuotoksia tarkastellaan riittävän usein, jotta virheet ja epäjohdonmukaisuudet eivät kulkeudu liian pitkälle.
+Scrum toimii, koska se luo systemaattisen prosessin, jossa yhteistyön tuotoksia tarkastellaan riittävän usein, jotta virheet ja epäjohdonmukaisuudet eivät kulkeudu liian pitkälle. Scrum antaa jokaiselle jäsenelle mahdollisuuden vaikuttaa yhtäläisesti, ja vastuun projektin laadusta ja onnistumisesta. Scrumin arvot läpinäkyvyydestä, tarkastelusta, ja muutoksiin vastaamisesta tekevät projektin kehittämisestä ketterää. Kun muutoksiin ja vastoinkäymisiin vastataan saman tien eikä viiveellä, projekti ei mene harhaan liian pitkään. Koska työskentely on läpinäkyvää ja tapaamisia on usein, jokainen tiimin jäsen oppii muiden virheistä ja onnistumisista.
 
 Harjoitellaan tunnilla Git-versionhallintaa harjoituksella, johon kaikki osallistuvat.
 
