@@ -104,8 +104,6 @@ Noudatetaan seuraavaa käytäntöä:
 
 Harjoitus aloitetaan lähitunnilla, jotta muutoksia tulee yhtaikaa ja saadaan aikaan konflikteja. Työ viimeistellään seuraavaan kertaan mennessä.
 
-# Ohjeita
-
     Perustakaa hankkeelle projekti-repository GitHubiin ja kutsukaa ryhmän jäsenet projektiin.
     Haaran luonti ja vaihto: git switch –c feat123
     Feature-haaran yhdistäminen:
