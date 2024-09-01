@@ -55,12 +55,11 @@ Omistaja: Product Owner (tuoteomistaja) vastaa Product Backlogin ylläpidosta ja
 
 ## Kokoukset
 
-Daily Scrum (Päivittäinen Scrum-kokous):
-Kuvaus: Päivittäinen lyhyt (15 minuutin) kokous, jossa Scrum-tiimi keskustelee sprintin edistymisestä. Jokainen tiimin jäsen vastaa kolmeen kysymykseen:
-Mitä tein eilen, joka auttoi tiimiä saavuttamaan sprintin tavoitteen?
-Mitä aion tehdä tänään edistääkseni sprintin tavoitteen saavuttamista?
-Onko jotain esteitä, jotka hidastavat tai estävät edistymistäni?
-Tavoite: Pitää tiimi tietoisena toistensa edistymisestä ja tunnistaa mahdolliset esteet nopeasti.
+Scrum-sykliin kuuluu olennaisesta päivittäiset scrum-kokoukset (daily scrum). Päivittäiset scrum-kokoukset ovat lyhyitä 15 minuutin mittaisia kokouksia scrumiin osallistuville kehittäjille, ja kokouksen aikana tarkastellaan sprintin tavoitteen (sprint goal) saavuttamista sekä springin työjonoa (backlog). Kokous tulisi pitää päivittäin samaan aikaan.
+
+Kokouksen toteutustapa on vapaa, mutta sen tulee edistää sprintin tavoitteen toteutumista. Kokouksen jälkeen jokaisella kehittäjällä on työsuunnitelma seuraavaksi työpäiväksi. Kehittäjät ovat myös tietoisia toistensa työtilanteesta ja seuraavista askelista.
+
+On huomioitavaa, että scrum-kokous ei ole ainoa hetki päivässä, jolloin kehittäjät tapaavat toisiaan. Kommunikaation ylläpitäminen on tärkeää koko työpäivän ajan, ja muutoksia suunnitelmiin voi joutua tekemään varsinaisen scrum-kokouksen ulkopuolella.
 
 ## Miksi Scrum toimii?
 
