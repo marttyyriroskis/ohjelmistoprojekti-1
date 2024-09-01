@@ -104,4 +104,4 @@ Harjoitus aloitetaan lähitunnilla, jotta muutoksia tulee yhtaikaa ja saadaan ai
 
 # Lähteet
 
-[^1] https://scrumguides.org/scrum-guide.html#daily-scrum
+[^1] Referenssinä käytetty [The 2020 Scrum Guide TM](https://scrumguides.org/scrum-guide.html). Lisäksi oma pää.
