@@ -2,9 +2,9 @@
 
 ## Scrum-syklin yleiskuvaus
 
-Scrum on ketterä projektinhallintamenetelmä, joka keskittyy ohjelmistokehitykseen ja tuotehallintaan. Se perustuu iteratiiviseen ja inkrementaaliseen lähestymistapaan, jossa työtä tehdään lyhyissä jaksoissa, joita kutsutaan sprinteiksi.
+Scrum on menetelmä monimutkaisten tuotteiden - ei siis pelkästään ohjelmistojen - luontiin ja ylläpitoon. Se nähdään osana ketterää kehitystyötä. Sen perusidea pohjautuu työntekoon lyhyissä sprinteiksi kutsutuissa jaksoissa. Joka jaksolla on usein yksi, selkeästi määritelty tavoite, joka tulee voida toteuttaa sprintin 4-6 viikon aikarajan sisällä.
 
-Scrum-sykli toistuu, kunnes tuote on valmis tai projektin päämäärä on saavutettu. Jokaisen sprintin jälkeen tuote on entistä valmiimpi ja sisältää lisää toiminnallisuuksia. Tämän iteratiivisen lähestymistavan ansiosta tuote kehittyy jatkuvasti, ja tiimi voi mukautua uusiin vaatimuksiin ja muutoksiin nopeasti.
+Sykli toistuu, kunnes projektin päämäärä on saavutettu. Jokaisen sprintin jälkeen tuote on entistä valmiimpi ja sisältää lisää toiminnallisuuksia. Tämän lähestymistavan ansiosta tuote kehittyy jatkuvasti, ja mahdollisiin muutoksiin voidaan reagoida nopeasti. Scrumia käytetään paitsi tuotteiden valmistukseen, myös niiden ylläpitoon.
 
 ## Sprintit
 
@@ -31,9 +31,7 @@ Uusi Sprint:
 
 ## Työjonot
 
-Product Backlog (Tuotteen tehtävälista):
-    Kuvaus: Product Backlog on priorisoitu lista kaikista tehtävistä, ominaisuuksista, parannuksista ja korjauksista, jotka tarvitaan tuotteen kehittämiseen.
-    Omistaja: Product Owner (tuoteomistaja) vastaa Product Backlogin ylläpidosta ja priorisoinnista.
+Työjono - englantilaisittain backlog - on priorisoitu lista kaikista tehtävistä, joita tarvitaan tuotteen kehittämiseen. Tuoteomistaja vastaa työjonon ajankohtaisuudesta ja ylläpidosta.
 
 ## Roolit
 
