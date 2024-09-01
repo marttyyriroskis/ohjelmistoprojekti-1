@@ -6,7 +6,7 @@ Scrum on menetelmä monimutkaisten tuotteiden - ei siis pelkästään ohjelmisto
 
 Sykli toistuu, kunnes projektin päämäärä on saavutettu. Jokaisen sprintin jälkeen tuote on entistä valmiimpi ja sisältää lisää toiminnallisuuksia. Tämän lähestymistavan ansiosta tuote kehittyy jatkuvasti, ja mahdollisiin muutoksiin voidaan reagoida nopeasti. Scrumia käytetään paitsi tuotteiden valmistukseen, myös niiden ylläpitoon.
 
-## Sprintit
+## Sprintit[^1]
 
 ### Sprint Planning (Sprintin suunnittelu):
 Sprint Planning on sprintin alussa pidettävä kokous, jossa koko Scrum-tiimi määrittelee, mitä töitä tullaan tekemään seuraavan sprintin aikana. Tavoitteena on valita Product Backlogista ne tehtävät, jotka ovat tärkeitä ja realistisesti saavutettavissa sprintin aikana.
@@ -28,6 +28,8 @@ Sprint Review -kokouksen jälkeen pidettävä kokous, jossa Scrum-tiimi arvioi s
 
 ### Uusi Sprint:
 Sprint Retrospective -kokouksen jälkeen alkaa uusi sprintti, ja sykli alkaa alusta Sprint Planning -kokouksella.
+
+[^1]: [Lähde](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf "Scrumguides")
 
 ## Työjonot
 
