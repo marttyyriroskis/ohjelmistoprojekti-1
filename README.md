@@ -1,6 +1,6 @@
 # README
 
-Tämän ohjeen pohjana on käytetty Scrum Guide -ohjetta[^1].
+Tämän ohjeen pohjana on käytetty Scrum Guide -ohjetta.
 
 ## Scrum-syklin yleiskuvaus
 
@@ -93,4 +93,5 @@ Harjoitus aloitetaan lähitunnilla, jotta muutoksia tulee yhtaikaa ja saadaan ai
         Yhdistä: git merge -–no-ff feat123
 
 
-[^1]Referenssinä käytetty [The 2020 Scrum Guide TM](https://scrumguides.org/scrum-guide.html). Lisäksi oma pää.
+## Lähteet
+Referenssinä käytetty [The 2020 Scrum Guide TM](https://scrumguides.org/scrum-guide.html). Lisäksi oma pää.
