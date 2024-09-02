@@ -37,30 +37,29 @@ Työjono - englantilaisittain backlog - on priorisoitu lista kaikista tehtävist
 
 ## Roolit
 
-### <span style="color: #9cf060">Product Owner (Tuoteomistaja)</span>
+### <span style="color: #9cf060">Tuoteomistaja (product owner)</span>
 
-Vastaa tuotteen kehityksen suunnasta ja Product Backlogin ylläpidosta, priorisoi tehtävät ja varmistaa, että tiimi työskentelee liiketoiminnan kannalta tärkeimpien asioiden parissa.
+Vastaa tuotteen kehityksen suunnasta ja työjonon ylläpidosta, priorisoi tehtävät ja varmistaa, että tiimi työskentelee liiketoiminnan kannalta tärkeimpien asioiden parissa.
 
 ### <span style="color: #9cf060">Scrum Master</span>
 
-On vastuussa Scrum-prosessista ja varmistaa, että tiimi noudattaa Scrum- viitekehystä. Poistaa esteitä tiimin tieltä ja valmentaa sitä mahdollisimman tehokkaaseen työskentelytapaan.
+On vastuussa scrum-prosessista ja varmistaa, että tiimi noudattaa scrum-viitekehystä. Poistaa esteitä tiimin tieltä ja valmentaa sitä mahdollisimman tehokkaaseen työskentelytapaan.
 
-Scrum Masterilla tulee olla hyvä käsitys Scrumista, sillä hänen vastuullaan on auttaa muita ymmärtämään Scumin toimintaperiaatteita.
+Scrum Masterilla tulee olla hyvä käsitys scrumista, sillä hänen vastuullaan on auttaa muita ymmärtämään scrumin toimintaperiaatteita.
 
-### <span style="color: #9cf060">Development Team (Kehitystiimi)</span>
+### <span style="color: #9cf060">Kehitystiimi (Development Team)</span>
 
-Monialainen, itseohjautuva tiimi, joka vastaa tuotteen toteutuksesta
-ja toiminnallisuuksien kehittämisestä sprinttien aikana.
+Monialainen, itseohjautuva tiimi, joka vastaa tuotteen toteutuksesta ja toiminnallisuuksien kehittämisestä sprinttien aikana.
 
-Kehitystiimin vastuulla on luoda suunnitelma Sprintille, eli Sprint Backlog. Kehitystiimin jäsenet pitävät toinen toisensa vastuussa työskentelyn ja lopputuloksen laadusta.
+Kehitystiimin vastuulla on luoda suunnitelma sprintille, sisältäen sprintin työjonon. Kehitystiimin jäsenet pitävät toinen toisensa vastuussa työskentelyn ja lopputuloksen laadusta.
 
-### <span style="color: #9cf060">Sidosryhmät</span>
+### <span style="color: #9cf060">Sidosryhmät </span>
 
 Antavat palautetta ja asettavat vaatimuksia tuotteen kehitykselle.
 
 ## Kokoukset
 
-Scrum-sykliin kuuluu olennaisesta päivittäiset scrum-kokoukset (daily scrum). Päivittäiset scrum-kokoukset ovat lyhyitä 15 minuutin mittaisia kokouksia scrumiin osallistuville kehittäjille, ja kokouksen aikana tarkastellaan sprintin tavoitteen (sprint goal) saavuttamista sekä springin työjonoa (backlog). Kokous tulisi pitää päivittäin samaan aikaan.
+Scrum-sykliin kuuluu olennaisesti päivittäiset scrum-kokoukset (daily scrum). Päivittäiset scrum-kokoukset ovat lyhyitä 15 minuutin mittaisia kokouksia scrumiin osallistuville kehittäjille, ja kokouksen aikana tarkastellaan sprintin tavoitteen (sprint goal) saavuttamista sekä sprintin työjonoa (backlog). Kokous tulisi pitää päivittäin samaan aikaan.
 
 Kokouksen toteutustapa on vapaa, mutta sen tulee edistää sprintin tavoitteen toteutumista. Kokouksen jälkeen jokaisella kehittäjällä on työsuunnitelma seuraavaksi työpäiväksi. Kehittäjät ovat myös tietoisia toistensa työtilanteesta ja seuraavista askelista.
 
@@ -68,30 +67,7 @@ On huomioitavaa, että scrum-kokous ei ole ainoa hetki päivässä, jolloin kehi
 
 ## Miksi Scrum toimii?
 
-Scrum toimii, koska se luo systemaattisen prosessin, jossa yhteistyön tuotoksia tarkastellaan riittävän usein, jotta virheet ja epäjohdonmukaisuudet eivät kulkeudu liian pitkälle. Scrum antaa jokaiselle jäsenelle mahdollisuuden vaikuttaa yhtäläisesti, ja vastuun projektin laadusta ja onnistumisesta. Scrumin arvot läpinäkyvyydestä, tarkastelusta, ja muutoksiin vastaamisesta tekevät projektin kehittämisestä ketterää. Kun muutoksiin ja vastoinkäymisiin vastataan saman tien eikä viiveellä, projekti ei mene harhaan liian pitkään. Koska työskentely on läpinäkyvää ja tapaamisia on usein, jokainen tiimin jäsen oppii muiden virheistä ja onnistumisista.
-
-# Ohjeita
-
-Harjoitellaan tunnilla Git-versionhallintaa harjoituksella, johon kaikki osallistuvat.
-
-Ohje laaditaan yhdessä Markdown-dokumenttina git-repositoryyn. Kuka tahansa saa muuttaa mitä tahansa! Harjoituksen lopuksi julkaistaan ohjeen ensimmäinen versio GitHub Pages -palvelussa.
-
-Noudatetaan seuraavaa käytäntöä:
-
-    Kaikki muutokset kehitetään omassa feature-haarassa.
-    Valmiit muutokset viedään develop-haaraan –-no-ff -laajentimella (merge -–no-ff), jolloin aina tehdään merge-commit, vaikka fast-forward olisi mahdollinen. Näin kaikki merget tulevat näkyviksi historiassa.
-    Master-haaraan viedään vain dokumentin valmiita versioita (julkaisu). Dokumentti kehitetään develop-haarassa valmiiksi julkaisua varten.
-    Jokainen tiimin jäsen tekee muutoksia, muutoin ei saa harjoitusta. Mitä enemmän tehdään muutoksia, sitä enemmän tulee kokemusta!
-
-Harjoitus aloitetaan lähitunnilla, jotta muutoksia tulee yhtaikaa ja saadaan aikaan konflikteja. Työ viimeistellään seuraavaan kertaan mennessä.
-
-    Perustakaa hankkeelle projekti-repository GitHubiin ja kutsukaa ryhmän jäsenet projektiin.
-    Haaran luonti ja vaihto: git switch –c feat123
-    Feature-haaran yhdistäminen:
-        Tee talletus (commit) feature haaraan
-        Siirry develop haaraan: git switch develop
-        Yhdistä: git merge -–no-ff feat123
-
+Scrum toimii, koska se luo systemaattisen prosessin, jossa yhteistyön tuotoksia tarkastellaan riittävän usein, jotta virheet ja epäjohdonmukaisuudet eivät kulkeudu liian pitkälle. Scrum antaa jokaiselle jäsenelle mahdollisuuden vaikuttaa yhtäläisesti sekä vastuun projektin laadusta ja onnistumisesta. Scrumin arvot läpinäkyvyydestä, tarkastelusta, ja muutoksiin vastaamisesta tekevät projektin kehittämisestä ketterää. Kun muutoksiin ja vastoinkäymisiin vastataan saman tien eikä viiveellä, projekti ei mene harhaan liian pitkään. Koska työskentely on läpinäkyvää ja tapaamisia on usein, jokainen tiimin jäsen oppii muiden virheistä ja onnistumisista.
 
 ## Lähteet
 Referenssinä käytetty [The 2020 Scrum Guide TM](https://scrumguides.org/scrum-guide.html). Lisäksi oma pää.
