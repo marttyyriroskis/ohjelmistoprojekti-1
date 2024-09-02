@@ -6,30 +6,30 @@ Tämän ohjeen pohjana on käytetty Scrum Guide -ohjetta.
 
 Scrum on menetelmä monimutkaisten tuotteiden - ei siis pelkästään ohjelmistojen - luontiin ja ylläpitoon. Se nähdään osana ketterää kehitystyötä. Sen perusidea pohjautuu työntekoon lyhyissä sprinteiksi kutsutuissa jaksoissa. Joka jaksolla on usein yksi, selkeästi määritelty tavoite, joka tulee voida toteuttaa sprintin 4-6 viikon aikarajan sisällä.
 
-Sykli toistuu, kunnes projektin päämäärä on saavutettu. Jokaisen sprintin jälkeen tuote on entistä valmiimpi ja sisältää lisää toiminnallisuuksia. Tämän lähestymis- tavan ansiosta tuote kehittyy jatkuvasti, ja mahdollisiin muutoksiin voidaan reagoida nopeasti. Scrumia käytetään paitsi tuotteiden valmistukseen, myös niiden ylläpitoon.
+Sykli toistuu, kunnes projektin päämäärä on saavutettu. Jokaisen sprintin jälkeen tuote on entistä valmiimpi ja sisältää lisää toiminnallisuuksia. Tämän lähestymistavan ansiosta tuote kehittyy jatkuvasti, ja mahdollisiin muutoksiin voidaan reagoida nopeasti. Scrumia käytetään paitsi tuotteiden valmistukseen myös niiden ylläpitoon.
 
 ## Sprintit
 
-### Sprint Planning (Sprintin suunnittelu)
-Kuvaus: Sprint Planning on sprintin alussa pidettävä kokous, jossa koko Scrum-tiimi määrittelee, mitä töitä tullaan tekemään seuraavan sprintin aikana. Tavoitteena on valita Product Backlogista ne tehtävät, jotka ovat tärkeitä ja realistisesti saavutettavissa sprintin aikana.
-Tulokset: Sprintin tavoite (Sprint Goal) ja Sprint Backlog, joka on lista tehtävistä, joita tiimi aikoo toteuttaa sprintin aikana.
+### Sprintin suunnittelu (sprint planning)
+Sprint planning on sprintin alussa pidettävä kokous, jossa koko scrum-tiimi määrittelee, mitä töitä tullaan tekemään seuraavan sprintin aikana. Tavoitteena on valita työjonosta (product backlog) ne tehtävät, jotka ovat tärkeitä ja realistisesti saavutettavissa sprintin aikana.
+
+Suunnittelun tuloksena on sprintin tavoite (sprint goal) ja työjono (sprint backlog), joka on lista tehtävistä, joita tiimi aikoo toteuttaa sprintin aikana.
 
 ### Sprint
-Kuvaus: Sprint on ennalta määritelty ajanjakso (yleensä 1–4 viikkoa), jonka aikana tiimi työskentelee Sprint Backlogin tehtävien parissa. Sprintin aikana tiimi keskittyy vain valittuihin tehtäviin ilman ulkopuolisia häiriöitä.
+Sprint on ennalta määritelty ajanjakso, yleensä 1–4 viikkoa, jonka aikana tiimi työskentelee työjonon (sprint backlog) tehtävien parissa. Sprintin aikana tiimi keskittyy vain valittuihin tehtäviin ilman ulkopuolisia häiriöitä.
+
 Sprintin säännöt:
-Sprintin kesto on vakio, eikä sitä muuteta kesken projektin.
-Sprintin aikana ei tehdä uusia lisäyksiä tai muutoksia Sprint Backlogiin ilman erityistä syytä.
+- Sprintin kesto on vakio, eikä sitä muuteta kesken projektin
+- Sprintin aikana ei tehdä uusia lisäyksiä tai muutoksia työjonoon ilman erityistä syytä
 
-### Sprint Review (Sprintin katselmointi)
-Kuvaus: Sprintin lopussa pidettävä kokous, jossa tiimi esittelee valmiin työnsä (esim. toiminnallisia ominaisuuksia tai muita valmiita tehtäviä) sidosryhmille ja Product Ownerille.
-* Saada palautetta tuotteen nykytilasta ja mahdollisista parannuksista tai muutoksista. Päivittää Product Backlog tarvittaessa perustuen saatuun palautteeseen.
+### Sprintin katselmointi (sprint review)
+Sprintin katselmointi on sprintin lopussa pidettävä kokous, jossa tiimi esittelee valmiin työnsä (esim. toiminnallisia ominaisuuksia tai muita valmiita tehtäviä) sidosryhmille ja tuoteomistajalle (product owner). Katselmoinnissa saadaan palautetta tuotteen nykytilasta ja mahdollisista parannuksista tai muutoksista sekä päivitetään työjonoa tarvittaessa perustuen saatuun palautteeseen.
 
-### Sprint Retrospective (Sprintin retrospektiivi)
-Kuvaus: Sprint Review -kokouksen jälkeen pidettävä kokous, jossa Scrum-tiimi arvioi sprintin suoritusta ja tunnistaa parannuskohteita.
-* Parantaa tiimin työskentelytapoja ja prosesseja tulevia sprinttejä varten, esimerkiksi lisäämällä tehokkuutta, vähentämällä jännitteitä tai optimoimalla työnkulkua.
+### Sprintin retrospektiivi (sprint retrospective)
+Sprintinn katselmoinnin jälkeen pidettävä kokous, jossa scrum-tiimi arvioi sprintin suoritusta ja tunnistaa parannuskohteita. Tämä kokous parantaa tiimin työskentelytapoja ja prosesseja tulevia sprinttejä varten, esimerkiksi lisäämällä tehokkuutta, vähentämällä jännitteitä tai optimoimalla työnkulkua.
 
-### Uusi Sprint
-Kuvaus: Sprint Retrospective -kokouksen jälkeen alkaa uusi sprintti, ja sykli alkaa alusta Sprint Planning -kokouksella.
+### Uusi sprint
+Sprintin retrospektiivi -kokouksen jälkeen alkaa uusi sprintti, ja sykli alkaa alusta sprintin suunnittelukokouksella.
 
 ## Työjonot
 
